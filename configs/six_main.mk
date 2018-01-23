@@ -30,7 +30,6 @@ PRODUCT_PACKAGES += \
     Eleven \
     Launcher3 \
     OmniSwitch \
-    OmniJaws \
     OmniStyle
 
 # Include explicitly to work around GMS issues
